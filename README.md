@@ -148,6 +148,6 @@
 * 사용기술: AVFoundation, JSONKit, FFmpeg, OpenGL 등
 * AppStore: https://apps.apple.com/app/id389754503
 
-<img src="img/remotecall/2.png" height="160"/> <img src="img/remotecall/3.png" height="160"/> <img src="img/remotecall/4.png" height="160"/>
+<img src="img/remotecall/2.png" height="120"/> <img src="img/remotecall/3.png" height="120"/> <img src="img/remotecall/4.png" height="120"/>
 
 <br/>
