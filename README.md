@@ -17,7 +17,7 @@
 * 2016.05 ~ 2017.06
 
 ### [알서포트](https://rsupport.com)
-* 2013.012 ~ 2016.04
+* 2013.01 ~ 2016.04
 
  <br /> <br />
  
@@ -27,7 +27,7 @@
  
  네온사인 앱
 
-* 기간: 2017/02/06 ~ 2017/02/10
+* 기간: 2017/02 ~ 2017/02
 * 개발언어: Swift
 * 사용기술: SwiftyVIPER, Firebase, Crashlytics
 * AppStore: https://apps.apple.com/app/id1206771129
