@@ -59,7 +59,7 @@
 고등영어 교육 서비스
 
 * 회사: 디쉐어
-* 기간: 2020/07~ 2021/08
+* 기간: 2020/10~ 2021/08
 * 개발언어: Swift, Objective-C
 * 사용기술: SnapKit, Firebase, XcodeGen, Fastlane 등
 * AppStore: https://apps.apple.com/kr/app/id1110296368
@@ -75,7 +75,7 @@
 중등영어 교육 서비스
 
 * 회사: 디쉐어
-* 기간: 2020/07~ 2021/08
+* 기간: 2020/10~ 2021/08
 * 개발언어: Swift, Objective-C
 * 사용기술: SnapKit, Firebase, XcodeGen, Fastlane 등
 * AppStore: https://apps.apple.com/kr/app/id1489265399
@@ -91,7 +91,7 @@
 중등영어 교육 서비스
 
 * 회사: 디쉐어
-* 기간: 2020/07~ 2021/08
+* 기간: 2020/10~ 2021/08
 * 개발언어: Swift, Objective-C
 * 사용기술: SnapKit, Firebase, XcodeGen, Fastlane 등
 * AppStore: https://apps.apple.com/kr/app/id1457974996
@@ -107,7 +107,7 @@
 중등영어 교육 서비스
 
 * 회사: 디쉐어
-* 기간: 2020/07~ 2021/08
+* 기간: 2020/10~ 2021/08
 * 개발언어: Swift, Objective-C
 * 사용기술: SnapKit, Firebase, Realm, XcodeGen, Fastlane 등
 * AppStore: https://apps.apple.com/kr/app/id1361540485
