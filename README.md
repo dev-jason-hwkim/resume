@@ -64,9 +64,9 @@
 * 사용기술: SnapKit, Firebase, XcodeGen, Fastlane 등
 * AppStore: https://apps.apple.com/kr/app/id1110296368
 
-<img src="img/adot/1.jpg" width="160"/> <img src="img/adot/2.jpg" width="160"/> 
-<img src="img/adot/3.jpg" width="160"/> <img src="img/adot/4.jpg" width="160"/> 
-<img src="img/adot/5.jpg" width="160"/> <img src="img/adot/6.jpg" width="160"/> 
+<img src="img/adot/1.jpg" width="150"/> <img src="img/adot/2.jpg" width="150"/> 
+<img src="img/adot/3.jpg" width="150"/> <img src="img/adot/4.jpg" width="150"/> 
+<img src="img/adot/5.jpg" width="150"/> <img src="img/adot/6.jpg" width="150"/> 
 
 <br/>
 
@@ -80,9 +80,9 @@
 * 사용기술: SnapKit, Firebase, XcodeGen, Fastlane 등
 * AppStore: https://apps.apple.com/kr/app/id1489265399
 
-<img src="img/adotm/1.png" width="160"/> <img src="img/adotm/2.png" width="160"/> 
-<img src="img/adotm/3.png" width="160"/> <img src="img/adotm/4.png" width="160"/> 
-<img src="img/adotm/5.png" width="160"/> <img src="img/adotm/6.png" width="160"/> 
+<img src="img/adotm/1.png" width="150"/> <img src="img/adotm/2.png" width="150"/> 
+<img src="img/adotm/3.png" width="150"/> <img src="img/adotm/4.png" width="150"/> 
+<img src="img/adotm/5.png" width="150"/> <img src="img/adotm/6.png" width="150"/> 
 
 <br/>
 
