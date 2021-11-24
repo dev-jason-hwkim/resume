@@ -77,7 +77,7 @@
 * 회사: 디쉐어
 * 기간: 2020/10~ 2021/08
 * 개발언어: Swift, Objective-C
-* 사용기술: SnapKit, Firebase, XcodeGen, Fastlane 등
+* 사용기술: Firebase, XcodeGen, Fastlane 등
 * AppStore: https://apps.apple.com/kr/app/id1489265399
 
 <img src="img/adotm/1.png" width="150"/> <img src="img/adotm/2.png" width="150"/> 
@@ -93,7 +93,7 @@
 * 회사: 디쉐어
 * 기간: 2020/10~ 2021/08
 * 개발언어: Swift, Objective-C
-* 사용기술: SnapKit, Firebase, XcodeGen, Fastlane 등
+* 사용기술: XcodeGen, Fastlane 등
 * AppStore: https://apps.apple.com/kr/app/id1457974996
 
 <img src="img/carryhome/1.png" width="160"/> <img src="img/carryhome/2.png" width="160"/> 
@@ -109,7 +109,7 @@
 * 회사: 디쉐어
 * 기간: 2020/10~ 2021/08
 * 개발언어: Swift, Objective-C
-* 사용기술: SnapKit, Firebase, Realm, XcodeGen, Fastlane 등
+* 사용기술: Realm, XcodeGen, Fastlane 등
 * AppStore: https://apps.apple.com/kr/app/id1361540485
 
 <img src="img/voca/1.png" width="160"/> <img src="img/voca/2.png" width="160"/> 
