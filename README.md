@@ -7,6 +7,9 @@
  
 경력
 -
+### [디쉐어](https://www.dshare.co.kr/)
+* 2020.07 ~ 2020.08
+
 ### [키즈노트](https://kidsnote.com)
 * 2019.03 ~ 2020.02
 
@@ -38,6 +41,83 @@
  
 회사 프로젝트
 -
+### DShare Player
+
+디쉐어의 모든 앱에서 공통으로 사용하는 플레이어 Framework
+
+* 회사: 디쉐어
+* 기간: 2021/03~ 2021/08
+* 개발언어: Swift
+* 사용기술: SnapKit, RxSwift, RxCocoa, RxGesture, ReactorKit, Realm, XcodeGen 등
+
+<img src="img/dshare_player/1.jpg" height="160"/> <img src="img/dshare_player/2.jpg" height="160"/> 
+
+<br/>
+
+### 에이닷 영어학원
+
+고등영어 교육 서비스
+
+* 회사: 디쉐어
+* 기간: 2020/07~ 2021/08
+* 개발언어: Swift, Objective-C
+* 사용기술: SnapKit, Firebase, XcodeGen, Fastlane 등
+* AppStore: https://apps.apple.com/kr/app/id1110296368
+
+<img src="img/adot/1.jpg" width="160"/> <img src="img/adot/2.jpg" width="160"/> 
+<img src="img/adot/3.jpg" width="160"/> <img src="img/adot/4.jpg" width="160"/> 
+<img src="img/adot/5.jpg" width="160"/> <img src="img/adot/6.jpg" width="160"/> 
+
+<br/>
+
+### 에이닷 중등영어학원
+
+중등영어 교육 서비스
+
+* 회사: 디쉐어
+* 기간: 2020/07~ 2021/08
+* 개발언어: Swift, Objective-C
+* 사용기술: SnapKit, Firebase, XcodeGen, Fastlane 등
+* AppStore: https://apps.apple.com/kr/app/id1489265399
+
+<img src="img/adotm/1.png" width="160"/> <img src="img/adotm/2.png" width="160"/> 
+<img src="img/adotm/3.png" width="160"/> <img src="img/adotm/4.png" width="160"/> 
+<img src="img/adotm/5.png" width="160"/> <img src="img/adotm/6.png" width="160"/> 
+
+<br/>
+
+### 캐리홈
+
+중등영어 교육 서비스
+
+* 회사: 디쉐어
+* 기간: 2020/07~ 2021/08
+* 개발언어: Swift, Objective-C
+* 사용기술: SnapKit, Firebase, XcodeGen, Fastlane 등
+* AppStore: https://apps.apple.com/kr/app/id1457974996
+
+<img src="img/carryhome/1.png" width="160"/> <img src="img/carryhome/2.png" width="160"/> 
+<img src="img/carryhome/3.png" width="160"/> <img src="img/carryhome/4.png" width="160"/> 
+<img src="img/carryhome/5.png" width="160"/> 
+
+<br/>
+
+### 단끝
+
+중등영어 교육 서비스
+
+* 회사: 디쉐어
+* 기간: 2020/07~ 2021/08
+* 개발언어: Swift, Objective-C
+* 사용기술: SnapKit, Firebase, Realm, XcodeGen, Fastlane 등
+* AppStore: https://apps.apple.com/kr/app/id1361540485
+
+<img src="img/voca/1.png" width="160"/> <img src="img/voca/2.png" width="160"/> 
+<img src="img/voca/3.png" width="160"/> <img src="img/voca/4.png" width="160"/> 
+<img src="img/voca/5.png" width="160"/> 
+
+<br/>
+
 ### 키즈노트
 
 모바일 알림장 서비스
