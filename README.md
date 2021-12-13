@@ -223,7 +223,7 @@
 영상을 통한 원격지원 서비스
 
 * 회사: 알서포트
-* 기간: 2013/06 ~ 2014/01
+* 기간: 2013/06 ~ 2015/01
 * 개발언어: Objective-C
 * 사용기술: AVFoundation, JSONKit, FFmpeg, OpenGL 등
 * AppStore: https://apps.apple.com/app/id389754503
