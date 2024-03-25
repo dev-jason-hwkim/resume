@@ -19,7 +19,7 @@
 ### [아이오로라](http://i-aurora.co.kr)
 * 2017.06 ~ 2018.09
 
-### WOWZER
+### 넥스팬더
 * 2016.05 ~ 2017.06
 
 ### [알서포트](https://rsupport.com)
@@ -187,7 +187,7 @@
 
 스마트 카드에 신용카드 및 포인트카드를 복사하여 사용하는 서비스
 
-* 회사: WOWZER
+* 회사: 넥스팬더
 * 기간: 2017/03 ~ 2017/06
 * 개발언어: Objective-C
 * 사용기술: Masonry, AFNetworking, SDWebImage, Firebase, Crashlytics 등
@@ -201,7 +201,7 @@
 
 개인자산(카드 및 계좌) 이용내역에 사용자에 소비패턴을 분석하여 제품을 추천하는 서비스
 
-* 회사: WOWZER
+* 회사: 넥스팬더
 * 기간: 2016/08 ~ 2017/02
 * 개발언어: Objective-C
 * 사용기술: Storyboard, AFNetworking, SDWebImage, Firebase, Crashlytics 등
@@ -213,7 +213,7 @@
 
 여행 관련 소셜 서비스
 
-* 회사: WOWZER
+* 회사: 넥스팬더
 * 기간: 2016/05 ~ 2016/07
 * 개발언어: Objective-C
 * 사용기술: Storyboard, AFNetworking, SDWebImage, Google Maps, Firebase, Crashlytics 등
