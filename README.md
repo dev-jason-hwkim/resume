@@ -54,7 +54,7 @@
 * 기간: 2017/06 ~ 2018/09
 * 개발언어: Swift
 * 사용기술: SnapKit, RxSwift, RxCocoa, Moya, Firebase, Crashlytics, ReactorKit, SwiftUI, Combine, Sentry, Fastalne, Github Action, XcodeGen 등
-* AppStore: https://apps.apple.com/kr/app/id1261265548
+* AppStore: https://apps.apple.com/kr/app/id1090371750
 
 <img src="img/wtable/1.png" width="160"/> <img src="img/wtable/2.png" width="160"/> 
 <img src="img/wtable/3.png" width="160"/> <img src="img/wtable/4.png" width="160"/> 
