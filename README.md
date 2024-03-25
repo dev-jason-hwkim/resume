@@ -1,13 +1,16 @@
 김현우 Kim Hyunwoo
 -
-**iOS Developer : Objective-c, swift**  
+**iOS Developer : Objective-c, Swift**  
 - Mail: <dev.hwkim@gmail.com>  
 - github: https://github.com/dev-jason-hwkim
  <br /> <br />
  
 경력
 -
-### [디쉐어](https://www.dshare.co.kr/)
+### [컬쳐히어로](https://culturehero.net)
+* 2022.01 ~ 
+
+### [디쉐어](https://www.dshare.co.kr)
 * 2020.07 ~ 2021.08
 
 ### [키즈노트](https://kidsnote.com)
@@ -41,6 +44,23 @@
  
 회사 프로젝트
 -
+
+### 우리의식탁
+
+레시피 컨텐츠 및 커머스 서비스
+
+
+* 회사: 컬쳐히어로
+* 기간: 2017/06 ~ 2018/09
+* 개발언어: Swift
+* 사용기술: SnapKit, RxSwift, RxCocoa, Moya, Firebase, Crashlytics, ReactorKit, SwiftUI, Combine, Sentry, Fastalne, Github Action, XcodeGen 등
+* AppStore: https://apps.apple.com/kr/app/id1261265548
+
+<img src="img/wtable/1.png" width="160"/> <img src="img/wtable/2.png" width="160"/> 
+<img src="img/wtable/3.png" width="160"/> 
+
+<br/>
+
 ### DShare Player
 
 디쉐어의 모든 앱에서 공통으로 사용하는 플레이어 Framework
